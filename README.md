@@ -16,7 +16,7 @@ This project implements a basic calculator using Arduino, a 4x4 keypad, and a 16
 * link: https://www.arduino.cc/reference/en/libraries/
 
 # Installation
-* Connect the components as follows:
+
 * Connect the keypad rows to Arduino pins 0, 1, 2, and 3.
 * Connect the keypad columns to Arduino pins 4, 5, 6, and 7.
 * Connect the LCD display's SDA pin to Arduino's A4 pin, and SCL pin to A5.
@@ -26,6 +26,7 @@ This project implements a basic calculator using Arduino, a 4x4 keypad, and a 16
 * Power up your Arduino board and start using the DIY calculator!
 
 # Usage
+
 * Press the keys on the keypad to input numbers and perform calculations.
 * Use the '*' key to clear the current calculation.
 * Press the '#' key to execute the entered operation and display the result.
